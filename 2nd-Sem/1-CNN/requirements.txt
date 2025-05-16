@@ -1,0 +1,17 @@
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0
+torch>=1.10.0,<2.0.0
+torchvision>=0.11.0,<0.15.0
+scikit-learn>=1.0.0,<2.0.0
+lime>=0.2.0.1,<0.3.0
+Pillow>=9.0.0,<10.0.0
+opencv-python>=4.5.0,<5.0.0  # if you use OpenCV
+matplotlib>=3.5.0,<4.0.0
+seaborn>=0.11.0  # recommended for better plots
+requests>=2.26.0,<3.0.0
+tqdm>=4.62.0,<5.0.0
+ipython>=7.30.0  # for notebook support
+jupyter>=1.0.0  # if using Jupyter notebooks
+tensorboard>=2.7.0,<3.0.0
+pytest>=6.2.5  # if writing tests
+flake8>=4.0.0  # for linting
